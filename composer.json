@@ -1,0 +1,13 @@
+
+{
+    "name": "denis909/yii2-psr-logger",
+    "license": "MIT",
+    "require": {
+        "psr/log": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "denis909\\yii\\" : ""
+        }
+    }    
+}
